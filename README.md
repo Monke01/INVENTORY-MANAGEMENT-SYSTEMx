@@ -44,7 +44,7 @@ Setup Instructions
 
 Clone the repository:
 
-git clone https://github.com/pastrystrawberry/INVENTORY-MANAGEMENT-SYSTEM.git
+git clone [https://github.com/pastrystrawberry/INVENTORY-MANAGEMENT-SYSTEM.git](https://github.com/Monke01/INVENTORY-MANAGEMENT-SYSTEMx)
 cd INVENTORY-MANAGEMENT-SYSTEM
 
 
